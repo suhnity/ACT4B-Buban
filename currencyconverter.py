@@ -1,7 +1,7 @@
 import csv
 import os
 
-CSV_URL = "https://raw.githubusercontent.com/suhnity/main/currency.csv"
+CSV_URL = "https://raw.githubusercontent.com/suhnity/main/ACT4B-Buban/currency.csv"
 
 def download_csv(filename):
     """Downloads the CSV file if it doesn't exist."""
